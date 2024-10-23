@@ -57,11 +57,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ernest_Hemingway</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78078534</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Cyrus Cuneo</dc:contributor>
-		<meta property="file-as" refines="#artist">Cuneo, Cyrus</meta>
-		<meta property="se:name.person.full-name" refines="#artist">Cyrus Cincinato Cuneo</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Cyrus_Cuneo</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no98104456</meta>
+		<dc:contributor id="artist">Wilhelm Heinrich Detlev Körner</dc:contributor>
+		<meta property="file-as" refines="#artist">Körner, Wilhelm Heinrich Detlev</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Wilhelm_Heinrich_Detlev_K%C3%B6rner</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50042947</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Cindy Beyer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Beyer, Cindy</meta>
