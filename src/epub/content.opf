@@ -62,6 +62,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ernest_Hemingway</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78078534</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Wilhelm Heinrich Detlev Körner</dc:contributor>
 		<meta property="file-as" refines="#artist">Körner, Wilhelm Heinrich Detlev</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Wilhelm_Heinrich_Detlev_K%C3%B6rner</meta>
