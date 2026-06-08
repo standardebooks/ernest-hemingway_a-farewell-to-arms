@@ -44,7 +44,7 @@
 		<meta property="group-position" refines="#collection-1">74</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<meta property="group-position" refines="#collection-2">83</meta>
+		<meta property="group-position" refines="#collection-2">85</meta>
 		<dc:description id="description">An ambulance lieutenant and a field nurse have an affair during World War I.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Frederic Henry is an American lieutenant of an ambulance corps serving in the Italian front of World War I. During his service he meets Catherine Barkley, an English nurse who goes on to work closely with him.&lt;/p&gt;
