@@ -46,7 +46,7 @@
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">85</meta>
-		<dc:abstract>An ambulance lieutenant and a field nurse have an affair during World War I.</dc:abstract>
+		<meta property="schema:abstract">An ambulance lieutenant and a field nurse have an affair during World War I.</meta>
 		<dc:description>
 			&lt;p&gt;Frederic Henry is an American lieutenant of an ambulance corps serving in the Italian front of World War I. During his service he meets Catherine Barkley, an English nurse who goes on to work closely with him.&lt;/p&gt;
 			&lt;p&gt;As the relationship between Frederic and Catherine develops, the novel follows the effects the war has on them and those around them. But the war is not the centerpiece of the book; rather, it serves more as a background and plot device for the growth of the characters’ interpersonal relationships.&lt;/p&gt;
